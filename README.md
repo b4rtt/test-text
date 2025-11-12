@@ -1,4 +1,4 @@
-# Nejčastější dotazy
+Nejčastější dotazy
 
 Co vše zahrnují měsíční poplatky za provoz systému?
 Přemýšlím o pořízení KISu
@@ -60,9 +60,9 @@ Ověřte si, zda má daný uživatel nastavenou odpovídající uživatelskou sk
 Kdo je to Adam Joska?
 Adam je naprostý borec z eSports kde má na starost projekt KIS. Jeho nejoblíběnější hokejový klub je Dynamo Pardubice.
 
-# Nápověda uživatel
+Nápověda uživatel
 
-## Bazar
+Bazar
 
 Tento modul slouží k prodeji/nákupu libovolného vybavení na základě inzerátů.
 
@@ -81,7 +81,7 @@ Orientace v modulu:
 “Zapnout notifikace/vypnout notifikace” - zakliknutím tohoto políčka se mění nastavení zasílání notifikací inzerátů v bazaru
 “Filtr vpravo” - po kliknutí na filtr začínající “Nejnovější” se objeví možnosti, jak lze řadit inzeráty
 
-## Chat
+Chat
 
 Tento modul slouží ke komunikaci se všemi členy/soupiskami v systému.
 
@@ -94,7 +94,7 @@ Jak založit nový chat?
 2. Rozbalí se Vám našeptávač, do kterého napíšete alespoň část jména uživatele/skupiny uživatelů, se kterým se chcete spojit
 3. Kliknete na tlačítko “Vytvořit chat“ a založí se vaše nová konverzace
 
-## Souhlasy
+Souhlasy
 
 V této sekci naleznete přehled všech souhlasů, které jste dosud potvrdili nebo jsou od vás vyžadovány.
 
@@ -118,7 +118,7 @@ Akce – Tlačítko „Odvolat souhlas“, kterým lze souhlas odvolat.
 Co když neodsouhlasím povinný souhlas?
 V takovém případě se nebudete moct plnohodnotně přihlásit ke svému profilu a systém naplno používat.
 
-## Turnaje
+Turnaje
 
 V modulu Turnaje naleznete veškeré informace o turnajích, na které vás vedoucí nebo trenér nominoval.
 
@@ -138,11 +138,11 @@ Sraz / Doprava – Čas a místo srazu před turnajem.
 Potvrdit do – Termín, do kdy je potřeba potvrdit účast.
 Docházka – Možnost potvrdit nebo odmítnout účast na turnaji (ikony ✅ a ❌).
 
-## Typy zápasů
+Typy zápasů
 
 Zápasy v přehledu si můžete filtrovat podle jednotlivých typů. Jde především o větší přehlednost.
 
-## Zápasy
+Zápasy
 
 V této sekci naleznete zápasy, na které vás vedoucí či trenér nominoval. Naleznete zde všechny zápasy - soutěžní i přípravné.
 
@@ -162,9 +162,9 @@ Sraz / Doprava – Čas a místo srazu před zápasem.
 Potvrdit do – Termín, do kdy je potřeba potvrdit účast.
 Docházka – Možnost potvrdit nebo odmítnout účast na zápase (ikony ✅ a ❌).
 
-# Nápověda admin
+Nápověda admin
 
-## Úvod a FAQ
+Úvod a FAQ
 
 Vítejte v nápovědě k využivání Klubového informačního systému!
 Najdete zde popis jednotlivých modulů a funkcionalit, které můžete v KISu využít. Předtím, než se obrátíte na naši technickou podporu s případným problémem, se prosím pokuste najít řešení vašeho problému v této nápovědě.
@@ -179,7 +179,7 @@ Pokud zapomenete přihlašovací údaje, můžete si obnovit heslo na přihlašo
 Mohu se přihlásit na více účtů zároveň?
 Pokud se potřebujete přihlásit ještě na jiný účet, než na který jste aktuálně přihlášeni, klikněte v pravém horním rohu na avatar a následně zvolte možnost přepínání účtů.
 
-## Bazar
+Bazar
 
 Tento modul slouží k prodeji/nákupu libovolného vybavení na základě inzerátů.
 
@@ -189,7 +189,7 @@ Ano, inzerát nemusí přidat pouze běžný uživatel, ale může jej přidat i
 Jak funguje převod peněz?
 Klub je v tomto modulu pouze prostředníkem pro komunikaci nakupujícího s prodávajícím. Na převodu peněz, případně i částce, se oba subjekty domlouvají individuálně.
 
-## Družstva
+Družstva
 
 Modul Družstva slouží pro nadefinování názvů kategorií, z kterých máte následně na výběr při vytváření soupisek.
 
@@ -197,7 +197,7 @@ Při vytváření či editaci družstva je potřeba textově zadat název družs
 
 Pořadí družstev je možné libovolně měnit, a to podržením kurzoru myši vlevo vedle názvu družstva a potažením nahoru či dolů. Podle tohoto pořadí se následně zobrazují jednotlivé vytvořené soupisky, pokud jich má uživatel v nabídce více než jednu.
 
-## Funkce na soupisce
+Funkce na soupisce
 
 Modul Funkce soupisky slouží k nadefinování funkcí, z kterých je možné vybírat při nastavování funkce člena na soupisce.
 
@@ -208,7 +208,7 @@ Trenér – nastavení pro exporty pro dotační tituly, uživatelé, kteří ma
 Zobrazení kontaktu na Přehledu – pokud je volba aktivní, budou kontakty na členy soupisky s touto funkcí zobrazeny v modulu Přehled. Pouze uživatelům, kteří jsou členy dané soupisky.
 Pořadí funkcí na soupisce je možné libovolně měnit, a to podržením kurzoru myši vlevo vedle názvu funkce a potažením nahoru či dolů. Podle tohoto pořadí se následně zobrazují jednotlivé funkce při nastavování funkce u konkrétního člena na dané soupisce.
 
-## Chat
+Chat
 
 Tento modul slouží ke komunikaci se všemi členy/soupiskami v systému.
 
@@ -221,11 +221,11 @@ Jak založit nový chat?
 2. Rozbalí se Vám našeptávač, do kterého napíšete alespoň část jména uživatele/skupiny uživatelů, se kterým se chcete spojit
 3. Kliknete na tlačítko “Vytvořit chat“ a založí se vaše nová konverzace
 
-## Narozeniny
+Narozeniny
 
 V této záložce naleznete kompletní výpis narozenin všech uživatelů systému, vždy podle konkrétního kalendářního měsíce. Zobrazuje to i kolikáté narozeniny bude daný člověk slavit.
 
-## Přehled soupisek
+Přehled soupisek
 
 Modul Soupisky je jedním z hlavních modulů KISu, na základě soupisek se pracuje ve velké většině modulů v KISu. Na Přehledu soupisek vidíte všechny již vytvořené soupisky, které vám dle oprávnění náleží, a můžete s nimi dále pracovat. Jak vytvořit novou soupisku najdete v popisu níže.
 
@@ -271,7 +271,7 @@ Pokud potřebujete v minulosti vytvořenou soupisku zkopírovat, například pro
 1. Nová soupiska – vytvoření kompletně nové soupisky, zkopíruje se vám veškeré nastavení původní soupisky, které si případně můžete upravit, a zároveň si checkboxy můžete vybrat, jaké členy z původní soupisky chcete zkopírovat do nově vytvářené
 2. Do existující soupisky – slouží pro hromadné zkopírování členů z vybrané soupisky do jiné v KISu již vytvořené soupisky. Vyberete si z nabídky soupisek Cílovou soupisku, kam se členové mají zkopírovat, a zároveň checkboxy označíte členy, které chcete do cílové soupisky zkopírovat.
 
-### Detail soupisky
+Detail soupisky
 
 Pokud na Přehledu soupisek kliknete na řádek s konkrétní soupiskou, zobrazí se vám detail soupisky, kde vidíte všechny členy, které máte na danou soupisku přidané, a další informace o nich, které se vztahují k dané soupisce.
 
@@ -285,17 +285,17 @@ Výška
 Váha
 Poznámka – Zobrazování sloupce Číslo dresu je možné zneaktivnit v Nastavení – Základní nastavení – Obecné, kde je volba "Zobrazovat poznámku pro soupisky"
 
-### Přidání člena na soupisku
+Přidání člena na soupisku
 
 Po kliknutí na zelené tlačítko Přidat na soupisku můžete přidávat nové členy na danou soupisku. Nejprve napíšete do našeptávače jméno člena, kterého potřebujete na soupisku přidat, následně se vám zobrazí nabídka členů z KISu, kteří odpovídají vámi napsanému textu. Checkboxem si označíte, koho chcete přidat, a poté kliknete na oranžové tlačítko Přidat.
 
 U každého z přidávaných členů si zvolíte jeho funkci na soupisce a případně pozici. Až budete mít takto přidané všechny členy, které potřebujete nově přidat, tak kliknete na zelené tlačítko Přidat a členové se přidají na soupisku.
 
-### Export
+Export
 
 Přes tlačítko export si můžete udělat export dat o členech z dané soupisky, je možné si vybrat z formátů XLS, CSV, PDF.
 
-## Přehled uživatelů
+Přehled uživatelů
 
 V modulu Uživatelé najdete všechny uživatele ve vašem KISu. Každého si můžete rozkliknout a zobrazit si k němu dodatečné informace.
 
@@ -318,11 +318,11 @@ Akční tlačítka
 
 ⬇ Import uživatelů – Možnost nahrát uživatele ze souboru (CSV).
 ⬆ Exportovat – Možnost stáhnout seznam uživatelů pro další zpracování.
-? Pozvat – Odešle pozvánku k registraci nebo potvrzení účtu vybraným uživatelům.
+? Pozat – Odešle pozvánku k registraci nebo potvrzení účtu vybraným uživatelům.
 Jak mohu jako administrátor upravit něčí profil?
 V přehledu uživatelů kliknete na řádku u člověka, kterého chcete upravit, na ikonu tužky a zde můžete editovat údaje.
 
-## Sezony
+Sezony
 
 Modul Sezony je jedním ze základních modulů KISu, na jednotlivé sezony jsou navázaná data prakticky ve všech modulech systému.
 
@@ -342,7 +342,7 @@ Tato vámi nastavená aktuální sezona se pak zobrazuje jako primární všem p
 
 Pokud máte ve vašem KISu aktivní modul Kroužky, tak se vám ve výpisu sezon zobrazuje také sloupec Aktivní kroužky, v němž si nastavíte sezonu, z jaké se mají zobrazovat soupisky v modulu Kroužky, a to jak přímo v KISu v modulu Kroužky, tak ve veřejné online registraci.
 
-## Souhlasy
+Souhlasy
 
 V tomto modulu naleznete přehled všech existujících souhlasů a soupis uživatelů, kteří se k němu vyjádřili, nebo tak ještě neučinili.
 
@@ -380,7 +380,7 @@ Přepnutím aktivního přepínače lze souhlas vypnout, čímž se už nebude v
 Co se stane, když uživatel neodsouhlasí povinný souhlas?
 V takovém případě se nemůže plnohodnotně přihlásit ke svému profilu a nemůže v systému fungovat.
 
-## Turnaje
+Turnaje
 
 V této sekci naleznete přehled všech turnajů, které pro své svěřence vytvoříte. Sekce primárně slouží pro vkládání turnajů, kterých se účastníte, můžete však vkládat i interní akce - je to vždycky na vás.
 
@@ -420,7 +420,7 @@ Aktuální stav nominace také vyjadřují barevná čísla u každého zápasu:
 Zelená - účastní se
 Červená - neúčastní se
 
-## Typy družstev
+Typy družstev
 
 Modul Typy družstev slouží k nadefinování si typů, ze kterých následně vybíráte při vytváření/editaci jednotlivých družstev v modulu Družstva.
 
@@ -428,7 +428,7 @@ Pořadí typů družstev je možné libovolně měnit, a to podržením kurzoru 
 
 Podle typů družstev je následně možné filtrovat v modulu Soupisky a také v Online registraci pro běžné uživatele.
 
-## Uživatelské logy
+Uživatelské logy
 
 V této záložce naleznete informace o veškeré aktivitě uživatelů ve vašem systému. Tudíž pokud v nějakém modulu někdo něco třeba pokazí nebo špatně nastaví, můžete jednoduše zjistit, kdo to byl a následně to s ním poté vyřešit. Vidíte zde, i jak se jednotliví uživatelé do systému přihlašují.
 
@@ -439,7 +439,7 @@ Vybrat modul - můžete vybrat konkrétní modul systému a sledovat aktivitu u 
 Vybrat typ akce - zde vybíráte, co konkrétní člověk v systému udělal, zde něco například zmazal nebo aktualizoval.
 Tlačítko s kalendářem - vybíráte rozmezí dat, které chcete sledovat.
 
-## Uživatelské skupiny
+Uživatelské skupiny
 
 Tato část slouží k nastavení práv jednotlivých uživatelských skupiny. Všichni v systému totiž nemají stejnou úlohu – někdo jako administrátor systém spravuje, někdo jako běžný uživatel pouze sleduje informace, někdo se jako trenér stará o svoji skupinu uživatelů. Právě tato práva nastavíte zde.
 
@@ -454,7 +454,7 @@ Přes zelené tlačítko Přidat v pravém horním rohu si můžete jakoukoliv n
 Mohu již vytvořené skupiny dále editovat?
 Ano, můžete kdykoliv. Například když zjistíte, že pro fungování vašeho KISu bude lepší, když se všichni trenéři dostanou do přehledu soupisek, jednoduše jim přidáte práva k této sekci.
 
-## Zápasy
+Zápasy
 
 V tomto modulu vidíte přehled všech zápasů vašeho klubu a nastavujete zde jejich typy.
 
@@ -500,6 +500,6 @@ Aktuální stav nominace také vyjadřují barevná čísla u každého zápasu:
 Zelená - účastní se
 Červená - neúčastní se
 
-## Zápasy - Typy zápasů
+Zápasy - Typy zápasů
 
 Zde si můžete jednotlivé zápasy rozdělit, aby byl celý přehled pro vás i vaše svěřence přehlednější. Některé typy už máte od nás předpřipravé, další si můžete před tlačítko Přidat vytvořit.
