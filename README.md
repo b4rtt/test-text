@@ -402,7 +402,7 @@ Po vyplnění informací o zápase přichází na řadu nominace hráčů a př�
 
 V nabídce pro nominaci máte vždy všechny hráče na konkrétní soupisce. Nominace hráče z jiné soupisky není možná, mít však jednoho hráče na více soupiskách není problém.
 
-Přidat hráče do nominace lze v sekci Mimo nominaci třemi způsobi:
+Přidat hráče do nominace lze v sekci Mimo nominaci třemi způsoby:
 
 Hromadně všechny - kliknete za zatrhávací políčko Člen v levé horní části a vyberou se vám všichni dosud nenominovaní členové.
 
