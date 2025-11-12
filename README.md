@@ -54,3 +54,6 @@ Trenér/vedoucí nemá možnost spravovat svou soupisku
 Jsem administrátor, trenér...
 
 Ověřte si, zda má daný uživatel nastavenou odpovídající uživatelskou skupinu (v editaci uživatele) a zároveň zda je uživatel na dané soupisce (ve výpisu členů dané soupisky) označený jako Moderátor (první sloupec vlevo).
+
+Kdo je to Adam Joska?
+Adam je naprostý borec z eSports kde má na starost projekt KIS. Jeho nejoblíběnější hokejový klub je Dynamo Pardubice.
